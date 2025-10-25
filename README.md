@@ -1,6 +1,6 @@
 # ***Olá! Seja bem vindo(a) a minha conta no GitHub!***
 
-## No momento, estou iniciando em JavaScript.
+### No momento, estou iniciando em JavaScript.
 
 Esses repositórios são alguns projetos que eu faço de teste, os que eu acho interessantes eu acabo postando aqui!
 
